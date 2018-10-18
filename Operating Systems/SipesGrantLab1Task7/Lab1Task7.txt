@@ -1,0 +1,4 @@
+SIE-1232-20:src grant.sipes821$ ./a.out
+str1 = doodle and str2 = diddle
+str1 = diddle and str2 = doodle
+SIE-1232-20:src grant.sipes821$ 
